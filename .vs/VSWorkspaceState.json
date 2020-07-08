@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\algorithm",
+    "\\algorithm\\algorithm"
   ],
+  "SelectedNode": "\\algorithm\\algorithm",
   "PreviewInSolutionExplorer": false
 }
